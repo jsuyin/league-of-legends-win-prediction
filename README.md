@@ -43,7 +43,7 @@ This project analyzes high-ranked League of Legends matches to predict the proba
 ## Results
 
 - Logistic Regression (K-Fold CV) performed best:
-  - **~17% test error (~83% accuracy)** :contentReference[oaicite:2]{index=2}  
+  - **~17% test error (~83% accuracy)** 
 - Tree-based models showed higher error rates (~27–28%)  
 - Ensemble methods improved stability but not significantly over trees  
 
